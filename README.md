@@ -1,0 +1,3 @@
+# Elvyko POS
+
+Releases only.
